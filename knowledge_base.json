@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created_date": "2026-03-27",
+    "source_dataset": "E-Commerce Brasil",
+    "description": "Base de conocimientos de productos top para el Agente IA"
+  },
+  "products": [
+    {
+      "id": "CAT-001",
+      "category": "bed_bath_table",
+      "category_es": "Cama, Baño y Mesa",
+      "rank_volume": 1,
+      "description": "Transforma tu espacio en un hogar acogedor y elegante con nuestra selección de productos para cama,baño y mesa. Desde sábanas que van a crear un espacio perfecto para descansar hasta accesorios decorativos que elevan cualquier ambiente, esta categoría combina funcionalidad y estilo para tu día a día.",
+      "avg_price_brl": 93.3,
+      "median_price_brl": 79.05,
+      "price_range_brl": {
+        "min": 6.99,
+        "max": 1999.98
+      },
+      "total_units_sold": 11115,
+      "tags": [
+        "hogar",
+        "alta-rotación",
+        "regalo",
+        "accesible"
+      ],
+      "ideal_for_segments": [
+        "Nuevos",
+        "Dormidos",
+        "Clientes Fieles"
+      ]
+    },
+    {
+      "id": "CAT-002",
+      "category": "health_beauty",
+      "category_es": "Salud y Belleza",
+      "rank_volume": 2,
+      "description": "Descubre lo mejor en cuidado personal y bienestar con nuestra línea de productos de salud y belleza. Encuentra desde artículos de skincare y cuidado capilar hasta herramientas esenciales que te ayudarán a verte y sentirte mejor cada día.",
+      "avg_price_brl": 130.16,
+      "median_price_brl": 79.9,
+      "price_range_brl": {
+        "min": 1.2,
+        "max": 3124.0
+      },
+      "total_units_sold": 9670,
+      "tags": [
+        "premium",
+        "regalo",
+        "cuidado-personal",
+        "alta-rotación"
+      ],
+      "ideal_for_segments": [
+        "Nuevos",
+        "Clientes Fieles",
+        "VIP"
+      ]
+    },
+    {
+      "id": "CAT-003",
+      "category": "sports_leisure",
+      "category_es": "Deportes y Ocio",
+      "rank_volume": 3,
+      "description": "Activa tu estilo de vida con nuestra categoría de deportes y ocio. Ya sea que busques mejorar tu rendimiento físico o disfrutar de tu tiempo libre, aquí encontrarás productos versátiles, cómodos y diseñados para acompañarte en cada movimiento.",
+      "avg_price_brl": 114.34,
+      "median_price_brl": 78.0,
+      "price_range_brl": {
+        "min": 4.5,
+        "max": 4059.0
+      },
+      "total_units_sold": 8641,
+      "tags": [
+        "deporte",
+        "fitness",
+        "regalo",
+        "lifestyle"
+      ],
+      "ideal_for_segments": [
+        "Nuevos",
+        "Clientes Fieles",
+        "VIP"
+      ]
+    }
+  ]
+}
