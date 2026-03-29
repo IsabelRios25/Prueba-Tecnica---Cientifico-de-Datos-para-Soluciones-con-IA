@@ -2,8 +2,6 @@
 
 Este repositorio contiene la solución completa a la prueba técnica del proceso de selección para el cargo de Científico de Datos con IA en el equipo de Canales Digitales de Protección. El proyecto abarca análisis exploratorio, segmentación de clientes, arquitectura de recomendación en tiempo real, análisis geoespacial y diseño de prompts para un agente de IA conversacional hiper-personalizado.
 
-# Prueba-Tecnica---Cientifico-de-Datos-para-Soluciones-con-IA
-Repositorio que contiene la solución propuesta para la prueba técnica de científico/a de datos. Incluye notebooks en formato `.ipynb` con el desarrollo del análisis, las bases de datos utilizadas, un documento en PDF con el enunciado de las preguntas planteadas y las diapositivas empleadas en la presentación de resultados.
 
 ## Desafíos
 | # | Desafío                                   | Técnicas utilizadas                                                                 |
